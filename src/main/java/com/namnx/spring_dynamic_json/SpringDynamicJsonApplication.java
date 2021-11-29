@@ -1,0 +1,13 @@
+package com.namnx.spring_dynamic_json;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringDynamicJsonApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringDynamicJsonApplication.class, args);
+    }
+
+}
